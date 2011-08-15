@@ -1,1 +1,4 @@
-[[http://blank][[[http://www.google.co.in/logos/2011/india11-hp.png]]]]
+Testing Images. 
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](http://google.com)
+
