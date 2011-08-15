@@ -4,4 +4,6 @@
 
 [[http://google.com][<img src="http://api.flattr.com/button/flattr-badge-large.png"/>]]
 
+[[http://google.com][\<img src="http://api.flattr.com/button/flattr-badge-large.png"/\>]]
+
 
