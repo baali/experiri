@@ -1,4 +1,11 @@
-Testing Images. 
+* Testing Images. 
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](http://google.com)
+ [[http://google.com][http://api.flattr.com/button/flattr-badge-large.png]]
 
+ #+begin_html
+ <a href="http://google.com"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="flattr-badge-large.png"/></a>
+ #+end_html
+
+<a href="http://google.com"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="flattr-badge-large.png"/></a>
+
+#+HTML: <a href="http://google.com"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="flattr-badge-large.png"/></a>
