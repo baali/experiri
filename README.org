@@ -3,9 +3,6 @@
 [[http://google.com][http://api.flattr.com/button/flattr-badge-large.png]]
 
 * Testing Source blocks
-  #+begin_src python
-    print "Hello World"
-  #+end_src
 
   #+begin_example
   print "Hello World"
