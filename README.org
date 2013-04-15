@@ -4,10 +4,6 @@
 
 * Testing Source blocks
 
-  #+begin_example
-  print "Hello World"
-  #+end_example
-
   #+BEGIN_SRC python
     print "Hello World"
   #+END_SRC
