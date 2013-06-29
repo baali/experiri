@@ -5,4 +5,3 @@ Test
 
 - one
 - two
-- three
