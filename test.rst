@@ -1,7 +1,6 @@
 Heading
 =======
 
-Test
 
 - one
 - two
