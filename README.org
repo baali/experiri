@@ -1,7 +1,3 @@
-* Testing Images
-
-[[http://google.com][http://api.flattr.com/button/flattr-badge-large.png]]
-
 * Testing Source blocks
 
   #+BEGIN_SRC python
