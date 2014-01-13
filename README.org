@@ -1,9 +1,1 @@
-* Testing Source blocks
-
-  #+BEGIN_SRC python
-    print "Hello World"
-  #+END_SRC
-
-  #+BEGIN_EXAMPLE
-  print "Hello World"
-  #+END_EXAMPLE
+README, what?
