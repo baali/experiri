@@ -9,5 +9,5 @@
   #+END_SRC
 
   #+BEGIN_EXAMPLE
-  print "Hello World!!"
+  print "Hello World"
   #+END_EXAMPLE
